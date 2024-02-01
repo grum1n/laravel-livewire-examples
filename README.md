@@ -1,3 +1,9 @@
+#   Branch: crud-app
+
+    php artisan make:model Category -m
+
+    php artisan make:livewire category
+
 #   Branch: test4-submit-form
 
 #   Branch: test3-search-bar
